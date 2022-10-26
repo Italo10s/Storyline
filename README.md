@@ -1,5 +1,4 @@
 # Storyline
-Um livro-jogo criado com HTML, CSS e JavaScript
 <h1 align='center'>CyberPunk 2022</h1>
 <h2>Nessa história quem decide é o usuário, o protagonista é o usuário, quem faz escolhas é o usuário, quem dita ritmo é o usuário.</h2>
 <h3>Um mundo muito tecnológico, onde os seres humanos tem total acesso com às tecnologias. Mais de 60% das profissões deixaram de existir, porque foram substituídas pelas inteligências artificiais. Muitas pessoas ficaram sem emprego, e isso deixou elas revoltadas, milhares de pessoas vão as ruas para protestar, inclusive praticando diversos atos de vandalismo contra as máquinas e as empresas que fabricam elas. Essas grandes corporações, decidem criar uma realidade virtual, para controlar quem ficou contra as máquinas. O que será dessas pessoas manipuladas?</h2>
@@ -16,7 +15,7 @@ Um livro-jogo criado com HTML, CSS e JavaScript
 
 <h2>💻 Link do site:</h2>
 <h3>
-    <a  href='https://github.com/Italo10s/Storyline'>Site Cyberpunk (2022)</a>
+    <a  href='file:///C:/Users/Aluno%20PROA/Documents/Livro-jogo/Storyline1/tindex.html'>Site Cyberpunk (2022)</a>
 </h3><br>
 
 <h2>🚀 Tecnologias Utilizadas:</h2>
