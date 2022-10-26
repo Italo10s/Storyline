@@ -4,6 +4,7 @@ quem escolhe se o final será feliz ou triste é o usuário. Agora vamos deixer 
 <br>
 <img align='center' src='https://user-images.githubusercontent.com/110691973/197635915-74df2187-40d4-436b-9076-8476743bb91e.png'/>
 <br>
+    <br>
 <img align='center' src='https://user-images.githubusercontent.com/110691973/197636055-0897c05d-6c1f-4fa0-a7c6-3a48390e2fc8.png'/>
 <br>
 
