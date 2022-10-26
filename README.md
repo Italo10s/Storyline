@@ -1,20 +1,23 @@
+<h1 align='center'>Storyline</h1>
+<h2>Um livro-jogo proposto pelo professor Gabriel, no Instituto Proa<h2>
+<br>
+<h3>Nessa história, quem dita regras é o usuário, quem escolhe o caminho é o usuário, quem dita o ritmo é o usuário, quem decide se o final será feliz ou triste
+é o usuário.</h3>
+<br>
+<img align='center' src='https://user-images.githubusercontent.com/110691973/197635915-74df2187-40d4-436b-9076-8476743bb91e.png'/>
+<br>
+<img align='center' src='https://user-images.githubusercontent.com/110691973/197636055-0897c05d-6c1f-4fa0-a7c6-3a48390e2fc8.png'/>
+<br>
 
-<h1 align='center'>CyberPunk 2022</h1>
-<h2>Objetivo do projeto era desenvolver um livro jogo, onde o leitor poderá escolher quais decisões tomar.</h2>
-<br>
-<img align='center' src='imgs/print.png' />
-<br>
-<img align='center' src='imgs/print2.png' />
-<br>
 
 <h2>🎞️ Link do teaser:</h2>
 <h3>
-    <a  href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk (2022)</a>
+    <a  href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk (2087)</a>
 </h3><br>
 
 <h2>💻 Link do site:</h2>
 <h3>
-    <a  href='https://fabiolacosta.github.io/Cyberpunk-2022/'>Site Cyberpunk (2022)</a>
+    <a  href='https://fabiolacosta.github.io/Cyberpunk-2022/'>Site Cyberpunk (2087)</a>
 </h3><br>
 
 <h2>🚀 Tecnologias Utilizadas:</h2>
