@@ -1,8 +1,6 @@
 <h1 align='center'>Storyline</h1>
-<h2>Um livro-jogo proposto pelo professor Gabriel, no Instituto Proa<h2>
-<br>
-<h3>Nessa história, quem dita regras é o usuário, quem escolhe o caminho é o usuário, quem dita o ritmo é o usuário, quem decide se o final será feliz ou triste
-é o usuário.</h3>
+<h2>Nessa história, quem dita regras é o usuário, quem escolhe os caminhos é o usuário, quem dita o ritmo da história é o usuário,
+quem escolhe se o final será feliz ou triste é o usuário. Agora vamos deixer de quem, quem e quem, e vamos jogar de uma vez!<h2>
 <br>
 <img align='center' src='https://user-images.githubusercontent.com/110691973/197635915-74df2187-40d4-436b-9076-8476743bb91e.png'/>
 <br>
@@ -17,7 +15,7 @@
 
 <h2>💻 Link do site:</h2>
 <h3>
-    <a  href='https://fabiolacosta.github.io/Cyberpunk-2022/'>Site Cyberpunk (2087)</a>
+    <a  href='https://fabiolacosta.github.io/Cyberpunk-2022/'>Site Cyberpunk</a>
 </h3><br>
 
 <h2>🚀 Tecnologias Utilizadas:</h2>
