@@ -11,7 +11,7 @@ quem escolhe se o final será feliz ou triste é o usuário. Agora vamos deixer 
 
 <h2>🎞️ Link do teaser:</h2>
 <h3>
-    <a  href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk (2087)</a>
+    <a  href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk</a>
 </h3><br>
 
 <h2>💻 Link do site:</h2>
